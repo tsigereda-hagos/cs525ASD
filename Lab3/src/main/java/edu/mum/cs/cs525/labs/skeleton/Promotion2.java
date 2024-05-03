@@ -1,7 +1,7 @@
 package edu.mum.cs.cs525.labs.skeleton;
 
-public class P2 extends InterestPromotionDecorator{
-    public P2(InterestStrategy interestStrategy){
+public class Promotion2 extends InterestPromotionDecorator{
+    public Promotion2(InterestStrategy interestStrategy){
         super(interestStrategy);
     }
 
